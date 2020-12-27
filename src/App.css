@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
 
 body {
-    font-family: 'Julius Sans One', sans-serif;
-    padding: 20px 60px;
+  font-family: 'Open Sans Condensed';
+  padding: 20px 40px;
 }
 
 a {
